@@ -1,0 +1,69 @@
+[
+    {
+      "precio": 2990,
+      "id": 1,
+      "title": "Bandana Tejida",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+      "precio": 6990,
+      "id": 2,
+      "title": "Pack bandanas en tela",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+      "precio": 11990,
+      "id": 3,
+      "title": "Cama para perro",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+      "precio": 3990,
+      "id": 4,
+      "title": "Collar estilo precolombino",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+      "precio": 7990,
+      "id": 5,
+      "title": "Correa tejida",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+      "precio": 990,
+      "id": 6,
+      "title": "Identificador",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+      "precio": 1990,
+      "id": 7,
+      "title": "Juguete para Perro",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+      "precio": 1990,
+      "id": 8,
+      "title": "Juguete para gato",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+      "precio": 9990,
+      "id": 9,
+      "title": "Rascador esferico",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+      "precio": 5990,
+      "id": 10,
+      "title": "Rascador cónico blanco",
+      "thumbnailURL": "https://cataas.com/cat"
+    },
+    {
+        "precio": 5990,
+        "id": 11,
+        "title": "Rascador cónico natural",
+        "thumbnailURL": "https://cataas.com/cat"
+    }
+
+  ]
